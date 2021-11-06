@@ -1,3 +1,4 @@
+- 📙 I’m blessed with being a fluent speaker of Arabic & English, and I'm learning Indonesian.
 - 🔭 I’m currently working on becoming a better human being 🙂
 - 🌱 I’m currently learning Android development on Dicoding.
 - 👯 I’m looking to collaborate on native Android apps.
