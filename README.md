@@ -1,6 +1,6 @@
 - 📙 I’m blessed with being a fluent speaker of Arabic & English, and I'm learning Indonesian.
 - 🔭 I’m currently working on becoming a better human being 🙂
-- 🌱 I’m currently learning Android development on Dicoding.
+- 🌱 I’m currently learning Android development.
 - 👯 I’m looking to collaborate on native Android apps.
 - 🤔 I’m looking for help with dicovering my faults.
 - 💬 Ask me about rational Islamic theology.
