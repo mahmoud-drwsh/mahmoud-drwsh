@@ -1,8 +1,8 @@
 - 📙 I’m blessed with being a fluent speaker of Arabic & English, and I'm learning Indonesian.
 - 🔭 I’m currently working on becoming a better human being 🙂
-- 🌱 I’m currently learning Android development.
+- 🌱 I’m currently learning Android development & Flutter.
 - 👯 I’m looking to collaborate on native Android apps.
 - 🤔 I’m looking for help with dicovering my faults.
-- 💬 Ask me about rational Islamic theology.
+- 💬 Ask me about rational Islamic theology (No question is off-limits!).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahmoud-darwish-b91b521ba)
 - ⚡ Fun fact: immaterial existence can be proven with purely logical arguments!
