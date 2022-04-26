@@ -8,6 +8,6 @@
 
 ---
 
-## My humble protfolio
+## My humble portfolio
 1. An example app using Jetpack Compose and Google Books Api showcasing how the latest guidelines from Google Android team are to be applied.
     https://github.com/mahmoud-drwsh/AndroidGoogleBooksApiMVVMExample
