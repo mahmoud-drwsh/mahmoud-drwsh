@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on becoming a better human being 🙂
 - 🌱 I’m currently learning Android development & Flutter.
 - 🤔 I’m looking for help with dicovering my faults 🙂
-- 💬 Ask me about rational Islamic theology (No question is off-limits!).
+- 💬 Ask me about rational Islamic philosophy (No question is off-limits!).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahmoud-darwish)
 - ⚡ Fun facts: 
     - A first immaterial uncaused casuse is a logical necessity 🙂
