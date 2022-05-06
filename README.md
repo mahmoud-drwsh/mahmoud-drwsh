@@ -1,4 +1,4 @@
-- 📙 I’m blessed with being a fluent speaker of Arabic & English, and I'm learning Indonesian.
+- 📙 I’m blessed with being a fluent speaker of Arabic & English, and Indonesian to a degree.
 - 🔭 I’m currently working on becoming a better human being 🙂
 - 🌱 I’m currently learning Android development & Flutter.
 - 🤔 I’m looking for help with dicovering my faults 🙂
