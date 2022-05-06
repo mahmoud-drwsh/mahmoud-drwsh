@@ -8,7 +8,7 @@
 
 ---
 
-## My humble portfolio
+## Portfolio
 1. An app which accesses an API for getting movies details and displays the data using the MVVM architecture pattern and Jetpack Compose for the UI.
     https://github.com/mahmoud-drwsh/AnimatedProductions
 4. An example app using Jetpack Compose and Google Books API showcasing how the latest guidelines from Google Android team are to be applied.
