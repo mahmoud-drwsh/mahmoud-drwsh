@@ -4,7 +4,9 @@
 - 🤔 I’m looking for help with dicovering my faults 🙂
 - 💬 Ask me about rational Islamic theology (No question is off-limits!).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahmoud-darwish)
-- ⚡ Fun fact: immaterial existence can be proven with purely logical arguments!
+- ⚡ Fun facts: 
+    - immaterial existence can be proven with purely logical arguments! 
+    - A first uncaused casuse is a logical necessity 🙂
 
 ---
 
