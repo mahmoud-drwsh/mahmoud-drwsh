@@ -11,7 +11,7 @@
 ---
 
 ## Portfolio
-1. An app for exploring the GitHub user database. The app uses Jetpack Compose for declaing the UI, and follows the MVVM architecture to a great degree.
+1. An app for exploring the GitHub user database. The app uses Jetpack Compose for declaring the UI and follows the MVVM architecture to a great degree.
     https://github.com/mahmoud-drwsh/GithubUsersDicoding
 3. An app which accesses an API for movies data and displays the data using the MVVM architecture pattern and Jetpack Compose for the UI.
     https://github.com/mahmoud-drwsh/AnimatedProductions
