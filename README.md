@@ -10,7 +10,7 @@
 ---
 
 ## Portfolio
-1. The most advanced app that I have here in terms of the concepts applied. 
+1. The most advanced app that I have here in terms of the concepts applied and time spent working on. 
     https://github.com/mahmoud-drwsh/MahmoudBooks
 3. An app for exploring the GitHub user database. The app uses Jetpack Compose for declaring the UI and follows the MVVM architecture to a great degree. Some screenshots and a video can be found on the project page.
     https://github.com/mahmoud-drwsh/GithubUsersDicoding
