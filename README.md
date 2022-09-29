@@ -5,7 +5,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mahmoud-darwish)
 - ⚡ Fun facts: 
     - A first immaterial uncaused casuse is a logical necessity 🙂
-    - The first uncaused cause necessarily possesses knowledge, will, power, life, and all logically possible attribute. 
+    - The first uncaused cause necessarily possesses knowledge, will, power, life, and all logically possible attributes. 
     - More to come...
 
 ---
